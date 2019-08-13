@@ -42,6 +42,7 @@ public class DepartmentListController implements Initializable{
 	
 	public void setDepartmentService(DepartmentService service) {
 		this.service = service;
+		
 	}
 	
 	@Override
